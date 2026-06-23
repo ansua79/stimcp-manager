@@ -6,7 +6,7 @@
 
 - 앱 ID: `kr.kisti.stimcpmanager` (exe: `stimcp.exe`)
 - 지원 OS: **Windows 10/11 (x64)** — Windows 11 권장
-- 버전: `v0.1.0`
+- 버전: `v0.1.1`
 - 상태: **MVP** — 아래 주요 기능이 동작합니다.
 
 ## 주요 기능
@@ -38,8 +38,8 @@
 | 파일 | 설명 |
 |---|---|
 | `stimcp_portable.exe` | **포터블** 단일 실행 파일. 설치 없이 더블클릭으로 실행. |
-| `STIMCP-Manager_0.1.0_x64-setup.exe` | **설치형(NSIS)**. 시작 메뉴·바탕화면 아이콘을 자동 등록. (초보자 권장) |
-| `STIMCP-Manager_0.1.0_x64_en-US.msi` | **설치형(MSI)**. 기업 배포·그룹 정책 환경에 적합. |
+| `STIMCP-Manager_0.1.1_x64-setup.exe` | **설치형(NSIS)**. 시작 메뉴·바탕화면 아이콘을 자동 등록. (초보자 권장) |
+| `STIMCP-Manager_0.1.1_x64_en-US.msi` | **설치형(MSI)**. 기업 배포·그룹 정책 환경에 적합. |
 
 ### 실행 전 확인 (Windows)
 
